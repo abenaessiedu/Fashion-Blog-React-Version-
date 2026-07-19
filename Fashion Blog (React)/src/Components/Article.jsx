@@ -1,5 +1,5 @@
-import {blogImage1} from './images/blog-image-1.jpg'
-import {blogImage2} from './images/blog-image-2.jpg'
+import {blogphoto1} from './public/blogphoto1'
+import {blogphoto2} from './public/blogphoto2'
 
 
 export default function Article({ title, images, content }) {

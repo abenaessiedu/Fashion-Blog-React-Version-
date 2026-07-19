@@ -19,15 +19,15 @@ export default function App() {
       <Article 
       title=" On the Street in Brooklyn"
       image={}
-      altTest=""
-      content=""
+      altText=""
+      content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie. "
       
       /> 
       <Article 
       title="Vintage in Vogue"
       image={}
-      altTest=""
-      content=""
+      altText=""
+      content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula."
       
       /> 
 

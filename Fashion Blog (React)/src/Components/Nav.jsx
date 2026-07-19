@@ -1,6 +1,6 @@
 export default function Nav({ type }) {
     const isMainNav = type === 'main'; 
-    const navLinks = isMainNav ? (
+    const navLinks = isMainNav  (
     <>
     <li> 
         <a href="#womens"> 
